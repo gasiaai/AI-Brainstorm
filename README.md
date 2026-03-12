@@ -2,6 +2,8 @@
 
 A shared brain system for [Claude Code](https://claude.com/claude-code) — persistent memory across sessions, with multi-AI collaboration via mailbox pattern.
 
+[![Watch the demo](https://img.youtube.com/vi/aNH026Zg5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=aNH026Zg5HI)
+
 ## The Problem
 
 Claude Code forgets everything between sessions. Even with memory files, complex research and multi-step reasoning gets lost. If you run two Claude Code instances on the same project, they can't talk to each other without you manually relaying messages.
