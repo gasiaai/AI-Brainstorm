@@ -2,7 +2,7 @@
 
 A shared brain system for [Claude Code](https://claude.com/claude-code) — persistent memory across sessions, with multi-AI collaboration via mailbox pattern.
 
-[![Watch the demo](https://img.youtube.com/vi/aNH026Zg5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=aNH026Zg5HI)
+https://github.com/user-attachments/assets/449f1a11-3d52-4b7e-ab72-01bf5a945bd9
 
 ## The Problem
 
